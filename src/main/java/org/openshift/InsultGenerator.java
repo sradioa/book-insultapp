@@ -1,9 +1,8 @@
 package org.openshift;
 
-import java.util.concurrent.ThreadLocalRandom
+import java.util.concurrent.ThreadLocalRandom;
 
 public class InsultGenerator {
-	
 	
 	public String generateInsult() {
 		String words[][] = {{"Artless", "Bawdy", "Beslubbering"}, {"Base-court", "Bat-fowling", "Beef-witted"}, {"Apple-john", "Baggage", "Barnacle"}};
